@@ -1,5 +1,5 @@
--- We should also try our hand at median rating and check whether the ‘median rating’ column gives any 
--- significant insights.
+--  We should also try our hand at median rating and check whether the ‘median rating’ column gives any 
+--  significant insights.
 
 -- Q16. Of the movies released between 1 April 2018 and 1 April 2019, how many were given a median rating of 8?
 
