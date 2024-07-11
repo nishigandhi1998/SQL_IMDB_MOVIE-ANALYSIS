@@ -1,4 +1,4 @@
-/* Do we find our favourite movie FAN in the top 10 movies with an average rating of 9.6? 
+/*  Do we find our favourite movie FAN in the top 10 movies with an average rating of 9.6? 
 If not, then we have to check our code pagain!
 
 So, now that we  know the top 10 movies, do we think character actors and filler actors can be from these movies?
