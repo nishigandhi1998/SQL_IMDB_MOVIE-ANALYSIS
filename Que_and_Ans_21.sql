@@ -1,5 +1,4 @@
-/*
-RSVP Movies plans to partner with other global production houses. 
+/*  RSVP Movies plans to partner with other global production houses. 
 Let’s find out the top three production houses in the world.*/
 
 -- Q21. Which are the top three production houses based on the number of votes received by their movies?
