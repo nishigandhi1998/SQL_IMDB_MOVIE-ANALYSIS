@@ -1,4 +1,4 @@
--- Q2. Which columns in the movie table have null values?
+--  Q2. Which columns in the movie table have null values?
 
 --  there are 2 ways to solve this one also 
 
