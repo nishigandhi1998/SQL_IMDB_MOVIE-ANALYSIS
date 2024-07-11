@@ -1,4 +1,4 @@
-/* So, based on the insight that we just drew, RSVP Movies should focus on the ‘Drama’ genre. 
+/*   So, based on the insight that we just drew, RSVP Movies should focus on the ‘Drama’ genre. 
 
 But wait, it is too early to decide. A movie can belong to two or more genres. 
 
