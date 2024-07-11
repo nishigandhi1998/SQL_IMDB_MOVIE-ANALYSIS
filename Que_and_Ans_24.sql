@@ -1,4 +1,4 @@
-/* Taapsee Pannu tops with average rating 7.74. 
+/*  Taapsee Pannu tops with average rating 7.74. 
 Now let us divide all the thriller movies in the following categories and find out their numbers.*/
 
 
