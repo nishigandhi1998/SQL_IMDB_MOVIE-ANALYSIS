@@ -1,7 +1,7 @@
--- Q23.Find out the top five actresses in Hindi movies released in India based on their average ratings? 
--- Note: The actresses should have acted in at least three Indian movies. 
--- (Hint: WE should use the weighted average based on votes. 
--- If the ratings clash, then the total number of votes should act as the tie breaker.)
+--  Q23.Find out the top five actresses in Hindi movies released in India based on their average ratings? 
+--  Note: The actresses should have acted in at least three Indian movies. 
+--  (Hint: WE should use the weighted average based on votes. 
+--  If the ratings clash, then the total number of votes should act as the tie breaker.)
 
 
 
