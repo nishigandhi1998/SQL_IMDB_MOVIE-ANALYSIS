@@ -1,4 +1,4 @@
-/* Now we know, 
+/*  Now we know, 
 
 movies of genre 'Drama' (produced highest in number in 2019) has the average duration of 106.77 mins.
 
