@@ -1,4 +1,4 @@
-/* James Mangold can be hired as the director for RSVP's next project. 
+/*  James Mangold can be hired as the director for RSVP's next project. 
 Do we remeber his movies, 'Logan' and 'The Wolverine'. 
 
 Now, let’s find out the top two actors.*/
