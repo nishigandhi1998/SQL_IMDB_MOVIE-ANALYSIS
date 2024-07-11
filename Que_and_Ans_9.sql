@@ -5,7 +5,7 @@ movies of genre 'Drama' (produced highest in number in 2019) has the average dur
 Lets find where the movies of genre 'thriller' on the basis of number of movies.*/
 
 /* Q9.What is the rank of the ‘thriller’ genre of movies among all the genres in terms of 
-number of movies produced? */
+number of movies produced?  */
 
 
 WITH genre_summary AS
