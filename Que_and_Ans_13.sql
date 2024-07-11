@@ -1,4 +1,4 @@
-/* Movies with a median rating of 7 is highest in number. 
+/*  Movies with a median rating of 7 is highest in number. 
 
 Now, let's find out the production house with which RSVP Movies can partner for its next project.*/
 
