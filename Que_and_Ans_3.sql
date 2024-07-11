@@ -1,8 +1,8 @@
--- Now as we can see four columns of the movie table has null values. 
--- Let's look at the at the movies released each year. 
+--  Now as we can see four columns of the movie table has null values. 
+--  Let's look at the at the movies released each year. 
 
--- Q3. Find the total number of movies released each year? 
--- How does the trend look month wise? 
+--  Q3. Find the total number of movies released each year? 
+--  How does the trend look month wise? 
 
 SELECT year,
        Count(title) AS NUMBER_OF_MOVIES
