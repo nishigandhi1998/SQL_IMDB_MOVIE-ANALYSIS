@@ -1,5 +1,4 @@
-
-/*Thriller movies is in top 3 among all genres in terms of number of movies
+/* Thriller movies is in top 3 among all genres in terms of number of movies
 
  In the previous , we analysed the movies and genres tables. 
  Now, we will analyse the ratings table as well.
