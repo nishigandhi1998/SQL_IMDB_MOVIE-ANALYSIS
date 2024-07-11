@@ -1,5 +1,5 @@
--- Lets try to analyse with a unique problem statement.
--- Q15. Find movies of each genre that start with the word ‘The’ and which have an average rating > 8?
+--  Lets try to analyse with a unique problem statement.
+--  Q15. Find movies of each genre that start with the word ‘The’ and which have an average rating > 8?
 
 SELECT title, avg_rating, genre
 FROM movie AS mov
