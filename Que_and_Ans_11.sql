@@ -1,4 +1,4 @@
-/* So, the minimum and maximum values in each column of the ratings table are in the expected range. 
+/*  So, the minimum and maximum values in each column of the ratings table are in the expected range. 
 
 This implies there are no outliers in the table. 
 Now, let’s find out the top 10 movies based on average rating.*/
