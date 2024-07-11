@@ -59,4 +59,4 @@ Develop content that resonates with global audience preferences, incorporating p
 
 The analytical insights derived from the IMDb database will enable RSVP Movies to strategically plan their global release in 2022. By leveraging data-driven recommendations, the production company can enhance their chances of success in the international market.
 
-For more details or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishigandhianalyst/).
+For more details or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishigandhianalyst/) and [Email](nishigandhi1998@gmail.com).
