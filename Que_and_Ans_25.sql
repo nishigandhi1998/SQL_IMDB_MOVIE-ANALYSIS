@@ -1,5 +1,4 @@
-
-/* Until now, we have analysed various tables of the data set. 
+/*  Until now, we have analysed various tables of the data set. 
 Now, we will perform some tasks that will give us a broader understanding of the data in this segment.*/
 
 -- Q25. What is the genre-wise running total and moving average of the average movie duration? 
