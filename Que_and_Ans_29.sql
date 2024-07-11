@@ -1,4 +1,4 @@
-/* Q29. Get the following details for top 9 directors (based on number of movies)
+/*   Q29. Get the following details for top 9 directors (based on number of movies)
 Director id
 Name
 Number of movies
