@@ -1,4 +1,4 @@
--- Q14. How many movies released in each genre during March 2017 in the USA had more than 1,000 votes?
+--  Q14. How many movies released in each genre during March 2017 in the USA had more than 1,000 votes?
 
 
 SELECT genre,
