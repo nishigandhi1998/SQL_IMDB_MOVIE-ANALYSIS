@@ -1,9 +1,9 @@
--- Let us find top 5 movies of each year with top 3 genres.
+--  Let us find top 5 movies of each year with top 3 genres.
 
--- Q26. Which are the five highest-grossing movies of each year that belong to the top three genres? 
--- (Note: The top 3 genres would have the most number of movies.)
+--  Q26. Which are the five highest-grossing movies of each year that belong to the top three genres? 
+--  (Note: The top 3 genres would have the most number of movies.)
 
--- Top 3 Genres based on most number of movies
+--  Top 3 Genres based on most number of movies
 
 WITH top_3_genres 
      AS( SELECT genre,
