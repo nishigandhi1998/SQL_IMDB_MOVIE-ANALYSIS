@@ -1,4 +1,4 @@
--- Q28. Who are the top 3 actresses based on number of Super Hit movies (average rating >8) in drama genre?
+--  Q28. Who are the top 3 actresses based on number of Super Hit movies (average rating >8) in drama genre?
 
 
 WITH actress_summary 
