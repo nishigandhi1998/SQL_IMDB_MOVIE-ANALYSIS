@@ -1,8 +1,8 @@
--- Finally, let’s find out the names of the top two production houses that have produced 
--- the highest number of hits among multilingual movies.
+--  Finally, let’s find out the names of the top two production houses that have produced 
+--  the highest number of hits among multilingual movies.
 
--- Q27.  Which are the top two production houses that have produced the highest number of hits 
--- (median rating >= 8) among multilingual movies?
+--  Q27.  Which are the top two production houses that have produced the highest number of hits 
+--  (median rating >= 8) among multilingual movies?
 
 WITH production_company_detail
      AS (SELECT production_company,
