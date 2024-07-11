@@ -1,6 +1,6 @@
--- Q17. Do German movies get more votes than Italian movies? 
+--  Q17. Do German movies get more votes than Italian movies? 
 
--- Hint: Here we have to find the total number of votes for both German and Italian movies.
+--  Hint: Here we have to find the total number of votes for both German and Italian movies.
 
 SELECT 
    country, 
