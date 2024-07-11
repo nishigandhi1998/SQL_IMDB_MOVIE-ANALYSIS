@@ -1,4 +1,4 @@
-/*The highest number of movies is produced in the month of March.
+/* The highest number of movies is produced in the month of March.
 
 So, now that we have understood the month-wise trend of movies, 
 let’s take a look at the other details in the movies table. 
