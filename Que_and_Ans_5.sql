@@ -1,4 +1,4 @@
-/* USA and India produced more than a thousand movies(We know the exact number!) in the year 2019.
+/*  USA and India produced more than a thousand movies(We know the exact number!) in the year 2019.
 
 Exploring table Genre would be fun!! 
 
